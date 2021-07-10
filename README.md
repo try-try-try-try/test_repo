@@ -2,7 +2,7 @@
 
 ## **Best practice to make most out of the resources**
 
-- Concept best understood when you type out code and suessfully eun it. 
+- Concept best understood when you type out code and successfull run it. 
 - Following the order in which topics are mentioned. 
 - Feel free to google more on topics which you find a bit difficult to understand.   
 
@@ -54,7 +54,7 @@
 ### 5. [Control Statements in Python ](https://docs.google.com/document/d/1wj2ni7zCPCB3RLLrGCiFg8_tYjR4JLiSY79vaRXBQBg/edit#)
 > - if statement and indentation
 > - if else statement
-> - if elif else 
+> - if elif else statement
 > - Loops 
 >   - while loop 
 >   - for loop
@@ -96,7 +96,7 @@
 >     - Mathematical operations on arrays 
 >     - comparing array
 >     - Attributes of array
-> - **numpy**      
+> - **Numpy**      
 >   - Videos 
 >   - numpy part 1 
 >   - numpy part 2 
@@ -104,8 +104,8 @@
 >   - Exercise
 > - **Matrices**   
 >   - Introduction  
->   - Getting diagonal elements 
->   - Mathematical operations 
+>   - Getting diagonal elements of matrix
+>   - Mathematical operations on matrix 
 >   - Sorting a matrix 
 >   - Exercise 
 
@@ -116,7 +116,6 @@
 > - Introduction to OOPs
 > - Understanding classes and object 
 > - self variable and costructor 
-> - Variable Length Arguments
 > - Types of variables 
 > - Types of methods 
 > - Passing methods of one class to another 

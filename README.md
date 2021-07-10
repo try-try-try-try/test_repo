@@ -112,8 +112,7 @@
 
 ### 8. [String formatting in python](https://www.w3schools.com/python/python_string_formatting.asp)
 
-### 9. [Python Classes and Objects
-](https://docs.google.com/document/d/1XcLIamY6wk4O2KjSF6KTPAoaixsdeEZ3pVl1HUjMiYE/edit#)
+### 9. [Python Classes and Objects](https://docs.google.com/document/d/1XcLIamY6wk4O2KjSF6KTPAoaixsdeEZ3pVl1HUjMiYE/edit#)
 > - Introduction to OOPs
 > - Understanding classes and object 
 > - self variable and costructor 

@@ -51,4 +51,20 @@
 > - Input Statements
 > - Command Line Arguments 
 
+### 5. [Control Statements in Python ](https://docs.google.com/document/d/1wj2ni7zCPCB3RLLrGCiFg8_tYjR4JLiSY79vaRXBQBg/edit#)
+> - if statement and indentation
+> - if else statement
+> - if elif else 
+> - Loops 
+>   - while loop 
+>   - for loop
+> - else suite
+> - break statement
+> - continue statement 
+> - pass statement 
+> - assert statement
+> - return statement
+> - Exercise 
+
+
 

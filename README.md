@@ -66,5 +66,20 @@
 > - return statement
 > - Exercise 
 
+### 6. [FUnctions in Python ](https://docs.google.com/document/d/1Dr2klCzFHfaczT8nyboBgCJaeJNaJ11RRaQQrcIpcuE/edit)
+> - Introduction
+> -  Arguments in Python
+> - Types of Arguments
+> - Variable Length Arguments
+> - Global vs Local variables 
+> - Recursion 
+> - Passing list to function 
+> - Importing Module in Python  
+> - Lambda Functions
+> - Filter Map Reduce 
+> - Function Decorators  
+> - Generators 
+> - Exercise 
+
 
 

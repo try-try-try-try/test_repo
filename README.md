@@ -18,7 +18,18 @@
 > - Downloading python
 > - Using interpreter 
 
-
+### 1. [Data Types in Python ](https://docs.google.com/document/d/1wj2ni7zCPCB3RLLrGCiFg8_tYjR4JLiSY79vaRXBQBg/edit#)
+> - Commenting in python
+> - How Python see a variable 
+> - Data Types in Python
+>   - None 
+>   - Numeric data types
+>   - Sequences in Python 
+>   - Sets
+>   - Mapping
+> - Escape Characters 
+> - Comparison between C & Python 
+> - Identifiers 
 
 
 

@@ -66,13 +66,37 @@
 > - return statement
 > - Exercise 
 
-### 6. [FUnctions in Python ](https://docs.google.com/document/d/1Dr2klCzFHfaczT8nyboBgCJaeJNaJ11RRaQQrcIpcuE/edit)
+### 6. [Functions in Python ](https://docs.google.com/document/d/1Dr2klCzFHfaczT8nyboBgCJaeJNaJ11RRaQQrcIpcuE/edit)
 > - Introduction
 > -  Arguments in Python
 > - Types of Arguments
 > - Variable Length Arguments
 > - Global vs Local variables 
 > - Recursion 
+> - Passing list to function 
+> - Importing Module in Python  
+> - Lambda Functions
+> - Filter Map Reduce 
+> - Function Decorators  
+> - Generators 
+> - Exercise 
+
+### 6. [Arrays in Python](https://docs.google.com/document/d/1anbT72ur-9oTGRd00-RIODyuw43LYNKosoY98My_CEs/edit)
+> - **Arrays** 
+>   - Part 1 
+>     - Introduction
+>     - Creating arrays 
+>     - Importing array module 
+>   - Part 2 
+>     - Copying Arrays
+>     - Indixing and slicing of arrays 
+>     - Various methods on array 
+>     - Types of array 
+>   - Part 3
+>     - Mathematical operations on arrays 
+>     - comparing array
+>     - Attributes of array
+> - **numpy**      
 > - Passing list to function 
 > - Importing Module in Python  
 > - Lambda Functions

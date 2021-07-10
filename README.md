@@ -97,13 +97,17 @@
 >     - comparing array
 >     - Attributes of array
 > - **numpy**      
-> - Passing list to function 
-> - Importing Module in Python  
-> - Lambda Functions
-> - Filter Map Reduce 
-> - Function Decorators  
-> - Generators 
-> - Exercise 
+>   - Videos 
+>   - numpy part 1 
+>   - numpy part 2 
+>   - notes 
+>   - Exercise
+> - **Matrices**   
+>   - Introduction  
+>   - Getting diagonal elements 
+>   - Mathematical operations 
+>   - Sorting a matrix 
+>   - Exercise 
 
 
 

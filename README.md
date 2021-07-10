@@ -51,7 +51,7 @@
 > - Input Statements
 > - Command Line Arguments 
 
-### 5. [Control Statements in Python ](https://docs.google.com/document/d/1wj2ni7zCPCB3RLLrGCiFg8_tYjR4JLiSY79vaRXBQBg/edit#)
+### 5. [Control Statements in Python ](https://docs.google.com/document/d/1MldH0C5ShAb2WggDGohrSSKSA2t9bia6ImEsRMxEPrk/edit)
 > - if statement and indentation
 > - if else statement
 > - if elif else statement

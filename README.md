@@ -81,7 +81,7 @@
 > - Generators 
 > - Exercise 
 
-### 6. [Arrays in Python](https://docs.google.com/document/d/1anbT72ur-9oTGRd00-RIODyuw43LYNKosoY98My_CEs/edit)
+### 7. [Arrays in Python](https://docs.google.com/document/d/1anbT72ur-9oTGRd00-RIODyuw43LYNKosoY98My_CEs/edit)
 > - **Arrays** 
 >   - Part 1 
 >     - Introduction
@@ -110,4 +110,21 @@
 >   - Exercise 
 
 
+### 8. [String formatting in python](https://www.w3schools.com/python/python_string_formatting.asp)
 
+### 9. [Python Classes and Objects
+](https://docs.google.com/document/d/1XcLIamY6wk4O2KjSF6KTPAoaixsdeEZ3pVl1HUjMiYE/edit#)
+> - Introduction to OOPs
+> - Understanding classes and object 
+> - self variable and costructor 
+> - Variable Length Arguments
+> - Types of variables 
+> - Types of methods 
+> - Passing methods of one class to another 
+> - Inheritance
+>   - Introduction 
+>   - Types of Inheritance
+>   - MRO
+> - Polymorphism  
+> - Operator Overloading 
+> - Method overloading and overriding 

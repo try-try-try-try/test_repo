@@ -82,7 +82,7 @@
 > - Exercise 
 
 ### 6. [Arrays in Python](https://docs.google.com/document/d/1anbT72ur-9oTGRd00-RIODyuw43LYNKosoY98My_CEs/edit)
-> - **Arrays** 
+> a. **Arrays** 
 >   - Part 1 
 >     - Introduction
 >     - Creating arrays 
@@ -96,13 +96,13 @@
 >     - Mathematical operations on arrays 
 >     - comparing array
 >     - Attributes of array
-> - **numpy**      
+> b. **numpy**      
 >   - Videos 
 >   - numpy part 1 
 >   - numpy part 2 
 >   - notes 
 >   - Exercise
-> - **Matrices**   
+> c. **Matrices**   
 >   - Introduction  
 >   - Getting diagonal elements 
 >   - Mathematical operations 

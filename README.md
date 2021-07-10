@@ -2,7 +2,7 @@
 
 ## **Best practice to make most out of the resources**
 
-1. Concept best understood when you type out code and suessfully eun it. 
-2. Following the order in which topics are mentioned. 
-3. Feel free to google more on topics which you find a bit difficult to understand.   
+- Concept best understood when you type out code and suessfully eun it. 
+- Following the order in which topics are mentioned. 
+- Feel free to google more on topics which you find a bit difficult to understand.   
  

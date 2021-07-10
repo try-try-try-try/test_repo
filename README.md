@@ -82,7 +82,9 @@
 > - Exercise 
 
 ### 6. [Arrays in Python](https://docs.google.com/document/d/1anbT72ur-9oTGRd00-RIODyuw43LYNKosoY98My_CEs/edit)
-> - **Arrays** 
+```
+> - **Arrays** ```
+
 >   - Part 1 
 >     - Introduction
 >     - Creating arrays 

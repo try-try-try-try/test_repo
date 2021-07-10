@@ -10,3 +10,16 @@
 
 
 1. [ Introduction to Python ](https://docs.google.com/document/d/1c_uS-KXuvEd7E2uGMUCqGFWlOJpgMVHrLUf1VHvHVY0/edit?usp=sharing)
+- Getting Started 
+- Features of python 
+- Execution of python program 
+- Memory management in python
+- Comparison between C & Python 
+- Downloading python
+- Using interpreter 
+
+
+
+
+
+

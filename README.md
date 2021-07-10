@@ -18,7 +18,7 @@
 > - Downloading python
 > - Using interpreter 
 
-### 1. [Data Types in Python ](https://docs.google.com/document/d/1wj2ni7zCPCB3RLLrGCiFg8_tYjR4JLiSY79vaRXBQBg/edit#)
+### 2. [Data Types in Python ](https://docs.google.com/document/d/1wj2ni7zCPCB3RLLrGCiFg8_tYjR4JLiSY79vaRXBQBg/edit#)
 > - Commenting in python
 > - How Python see a variable 
 > - Data Types in Python
@@ -30,6 +30,20 @@
 > - Escape Characters 
 > - Comparison between C & Python 
 > - Identifiers 
+
+
+### 3. [Operators in Python](https://docs.google.com/document/d/17AzFQ2S0TveE9BjURZavzhQLNWbWA_c_3-G47RC-QXI/edit#)
+> - Arithmetic operators 
+> - Assignment operators
+> - Unary minus operator
+> - Comparison Operators
+> - Bitwise Operators 
+> - Logical Operators
+> - Boolean Operators
+> - Membership Operator 
+> - Identity Operator
+> - Priority of operators 
+> - Math Module 
 
 
 
